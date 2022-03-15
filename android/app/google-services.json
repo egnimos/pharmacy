@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "948903714478",
+    "project_id": "dawa-doctor",
+    "storage_bucket": "dawa-doctor.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:948903714478:android:284e488cd25d93e28a973f",
+        "android_client_info": {
+          "package_name": "com.example.pharmacy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "948903714478-4looama1j2nc5lue21kh5atuk770bs3e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNwRUPdCld_QLXxbWj8LhQDtF3oL5zMH8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "948903714478-4looama1j2nc5lue21kh5atuk770bs3e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
